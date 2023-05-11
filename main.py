@@ -3,7 +3,7 @@ import random
 import matplotlib.pyplot as plt
 import statistics
 
-# random array used for testing
+# random array used for testing 
 random_test_array = []
 
 # number of elements to be added to random array
